@@ -11,18 +11,109 @@
     },
     "items": [
         {
-            "id": "https://jam.krispyrecords.com/krispy-jam-4/",
-            "url": "https://jam.krispyrecords.com/krispy-jam-4/",
-            "title": "Post 1",
-            "image": "https://jam.krispyrecords.com/media/posts/1/KR_Petite_Halle_4_01032024_by_Jeremy_Lanfranchi_ridershow-40.jpeg",
+            "id": "https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/",
+            "url": "https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/",
+            "title": "Krispy Records X RC &amp; The Gritz - Jam",
+            "summary": "À l'occasion de cette huitième collaboration avec la Petite Halle de la Villette, et pour clôturer la saison en beauté, Krispy Records et RC&hellip;",
+            "content_html": "<p>À l'occasion de cette huitième collaboration avec la Petite Halle de la Villette, et pour clôturer la saison en beauté, Krispy Records et RC &amp; The Gritz s’allient pour une Jam d’anthologie.</p>\n<p>Backing band de la chanteuse R&amp;B / Soul / Hip Hop Erykah Badu, RC &amp; The Gritz est un All Star Band réunissant une dizaine de musiciens originaire du Texas. Au fil de nombreuses collaborations avec des artistes tels que Snoop Dog, Bernard Wright, Shaun Martin, ou encore Shelley Carrol, le groupe a su se forger une esthétique reconnaissable entre mille sous la direction de RC Williams.</p>\n<p>Krispy Records, studio et label éclectique aux influences jazz, neo-soul, hip-hop, groove est rapidement repéré par la qualité des sessions “Live at Krispy House”, le studio devient un repère incontournable pour les musiciens de la scène parisienne.</p>\n<p>Ne manquez pas ce soirée mythique unissant le Groove de Dallas et de Paris sur la même scène.</p>\n<p><strong>EN</strong></p>\n<p>To close off this season at La Petite Halle de la Villette, Krispy Records has decided to invite The Dallas based all star band RC &amp; the Gritz for a jam session to be remembered for.</p>\n<p>RC &amp; The Gritz is an R&amp;B/Soul/Hip - Hop Supergroup AKA Erykah Badu’s touring band. The group is made up of a diverse mix of musicians from across Texas. Led by RC, Erykah Badu’s Music Director and core member of her electronic production group, the Cannabinoids.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
+            "image": "https://jam.krispyrecords.com/media/posts/12/RC_and_the_gritz_x_Krispy_Records_Jam.png",
             "author": {
                 "name": "Jerem"
             },
             "tags": [
-                   "Krispy Jam 4"
             ],
-            "date_published": "2024-05-25T15:01:32+02:00",
-            "date_modified": "2024-05-25T15:01:32+02:00"
+            "date_published": "2024-07-24T21:40:23+02:00",
+            "date_modified": "2024-07-24T21:45:22+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-7-2/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-7-2/",
+            "title": "Krispy Jam #7",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
+            "image": "https://jam.krispyrecords.com/media/posts/11/KR_Jam_7_Petite_Halle_10_06_24_by_Jeremy_Lanfranchi_ridershow-37.jpg",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:26+02:00",
+            "date_modified": "2024-07-24T21:47:29+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-6-2/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-6-2/",
+            "title": "Krispy Jam #6",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:21+02:00",
+            "date_modified": "2024-07-24T21:48:00+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-5/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-5/",
+            "title": "Krispy Jam #5",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:17+02:00",
+            "date_modified": "2024-07-24T21:39:17+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-4-2/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-4-2/",
+            "title": "Krispy Jam #4",
+            "image": "https://jam.krispyrecords.com/media/posts/8/KR_Petite_Halle_4_01032024_by_Jeremy_Lanfranchi_ridershow-27.jpg",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:13+02:00",
+            "date_modified": "2024-07-24T21:48:46+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-3/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-3/",
+            "title": "Krispy Jam #3",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:08+02:00",
+            "date_modified": "2024-07-24T21:39:08+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-2/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-2/",
+            "title": "Krispy Jam #2",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:39:02+02:00",
+            "date_modified": "2024-07-24T21:39:02+02:00"
+        },
+        {
+            "id": "https://jam.krispyrecords.com/krispy-jam-1/",
+            "url": "https://jam.krispyrecords.com/krispy-jam-1/",
+            "title": "Krispy Jam #1",
+            "author": {
+                "name": "Jerem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-24T21:38:58+02:00",
+            "date_modified": "2024-07-24T21:38:58+02:00"
         }
     ]
 }
