@@ -11,18 +11,6 @@
     },
     "items": [
         {
-            "id": "https://jam.krispyrecords.com/a-propos/",
-            "url": "https://jam.krispyrecords.com/a-propos/",
-            "title": "A propos",
-            "author": {
-                "name": "Jerem"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-27T00:42:40+02:00",
-            "date_modified": "2024-07-27T00:52:29+02:00"
-        },
-        {
             "id": "https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/",
             "url": "https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/",
             "title": "Krispy Records X RC &amp; The Gritz - Jam",
