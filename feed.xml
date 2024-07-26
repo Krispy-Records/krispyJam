@@ -3,12 +3,24 @@
     <title>jam.krispyrecords.com</title>
     <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
     <link href="https://jam.krispyrecords.com" />
-    <updated>2024-07-24T21:48:46+02:00</updated>
+    <updated>2024-07-27T00:52:29+02:00</updated>
     <author>
         <name>Jerem</name>
     </author>
     <id>https://jam.krispyrecords.com</id>
 
+    <entry>
+        <title>A propos</title>
+        <author>
+            <name>Jerem</name>
+        </author>
+        <link href="https://jam.krispyrecords.com/a-propos/"/>
+        <id>https://jam.krispyrecords.com/a-propos/</id>
+
+        <updated>2024-07-27T00:42:40+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Krispy Records X RC &amp; The Gritz - Jam</title>
         <author>
@@ -17,12 +29,13 @@
         <link href="https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/"/>
         <id>https://jam.krispyrecords.com/krispy-records-x-rc-and-the-gritz-jam/</id>
         <media:content url="https://jam.krispyrecords.com/media/posts/12/RC_and_the_gritz_x_Krispy_Records_Jam.png" medium="image" />
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:40:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jam.krispyrecords.com/media/posts/12/RC_and_the_gritz_x_Krispy_Records_Jam.png" alt="" />
-                    À l'occasion de cette huitième collaboration avec la Petite Halle de la Villette, et pour clôturer la saison en beauté, Krispy Records et RC&hellip;
+                    À l'occasion de cette huitième collaboration avec la Petite Halle de la Villette, et pour clôturer la saison en beauté,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -47,6 +60,7 @@
         <link href="https://jam.krispyrecords.com/krispy-jam-7-2/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-7-2/</id>
         <media:content url="https://jam.krispyrecords.com/media/posts/11/KR_Jam_7_Petite_Halle_10_06_24_by_Jeremy_Lanfranchi_ridershow-37.jpg" medium="image" />
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:26+02:00</updated>
             <summary>
@@ -69,6 +83,7 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-6-2/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-6-2/</id>
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:21+02:00</updated>
             <summary>
@@ -89,6 +104,7 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-5/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-5/</id>
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:17+02:00</updated>
             <summary></summary>
@@ -102,6 +118,7 @@
         <link href="https://jam.krispyrecords.com/krispy-jam-4-2/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-4-2/</id>
         <media:content url="https://jam.krispyrecords.com/media/posts/8/KR_Petite_Halle_4_01032024_by_Jeremy_Lanfranchi_ridershow-27.jpg" medium="image" />
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:13+02:00</updated>
             <summary></summary>
@@ -114,6 +131,7 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-3/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-3/</id>
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:08+02:00</updated>
             <summary></summary>
@@ -126,6 +144,7 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-2/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-2/</id>
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:39:02+02:00</updated>
             <summary></summary>
@@ -138,6 +157,7 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-1/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-1/</id>
+            <category term="Jams"/>
 
         <updated>2024-07-24T21:38:58+02:00</updated>
             <summary></summary>
