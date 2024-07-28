@@ -3,7 +3,7 @@
     <title>jam.krispyrecords.com</title>
     <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
     <link href="https://jam.krispyrecords.com" />
-    <updated>2024-07-27T00:42:31+02:00</updated>
+    <updated>2024-07-28T23:32:04+02:00</updated>
     <author>
         <name>Jerem</name>
     </author>
@@ -132,11 +132,23 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-2/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-2/</id>
+        <media:content url="https://jam.krispyrecords.com/media/posts/6/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-155.jpg" medium="image" />
             <category term="Jams"/>
 
         <updated>2024-07-24T21:39:02+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jam.krispyrecords.com/media/posts/6/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-155.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-37.jpg" data-size="3069x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-37-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-40.jpg" data-size="3069x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-40-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-51.jpg" data-size="3069x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-51-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-53.jpg" data-size="3069x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-53-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-64.jpg" data-size="2048x3069"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-64-thumbnail.jpg" alt="" width="768" height="1151"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Krispy Jam #1</title>

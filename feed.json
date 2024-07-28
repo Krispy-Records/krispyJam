@@ -101,6 +101,8 @@
             "id": "https://jam.krispyrecords.com/krispy-jam-2/",
             "url": "https://jam.krispyrecords.com/krispy-jam-2/",
             "title": "Krispy Jam #2",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-37.jpg\" data-size=\"3069x2048\"><img decoding=\"async\" loading=\"lazy\" src=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-37-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-40.jpg\" data-size=\"3069x2048\"><img decoding=\"async\" loading=\"lazy\" src=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-40-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-51.jpg\" data-size=\"3069x2048\"><img decoding=\"async\" loading=\"lazy\" src=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-51-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-53.jpg\" data-size=\"3069x2048\"><img decoding=\"async\" loading=\"lazy\" src=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-53-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-64.jpg\" data-size=\"2048x3069\"><img decoding=\"async\" loading=\"lazy\" src=\"https://jam.krispyrecords.com/media/posts/6/gallery/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-64-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1151\"></a></figure>\n</div></div>",
+            "image": "https://jam.krispyrecords.com/media/posts/6/KR_Petite_Halle_2_10112023_by_Jeremy_Lanfranchi-155.jpg",
             "author": {
                 "name": "Jerem"
             },
@@ -108,7 +110,7 @@
                    "Jams"
             ],
             "date_published": "2024-07-24T21:39:02+02:00",
-            "date_modified": "2024-07-27T00:42:26+02:00"
+            "date_modified": "2024-07-28T23:32:04+02:00"
         },
         {
             "id": "https://jam.krispyrecords.com/krispy-jam-1/",
