@@ -3,7 +3,7 @@
     <title>jam.krispyrecords.com</title>
     <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
     <link href="https://jam.krispyrecords.com" />
-    <updated>2024-08-02T22:01:04+02:00</updated>
+    <updated>2024-08-02T22:02:57+02:00</updated>
     <author>
         <name>Jerem</name>
     </author>
@@ -146,12 +146,14 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-3/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-3/</id>
+        <media:content url="https://jam.krispyrecords.com/media/posts/7/422678909_1067653830934707_8252426330052129648_n.jpg" medium="image" />
             <category term="Jams"/>
 
         <updated>2024-07-24T21:39:08+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jam.krispyrecords.com/media/posts/7/422678909_1067653830934707_8252426330052129648_n.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/7/gallery/422462613_1067654264267997_4803936432933844401_n.jpg" data-size="1365x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/7/gallery/422462613_1067654264267997_4803936432933844401_n-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/7/gallery/422544411_1067654100934680_6841152586231194387_n.jpg" data-size="1365x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/7/gallery/422544411_1067654100934680_6841152586231194387_n-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
@@ -203,12 +205,14 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-1/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-1/</id>
+        <media:content url="https://jam.krispyrecords.com/media/posts/5/397548063_1015805249452899_6153516056995419001_n.jpg" medium="image" />
             <category term="Jams"/>
 
         <updated>2024-07-24T21:38:58+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jam.krispyrecords.com/media/posts/5/397548063_1015805249452899_6153516056995419001_n.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/5/gallery/397542975_1015805796119511_3191902269778006535_n.jpg" data-size="1536x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/5/gallery/397542975_1015805796119511_3191902269778006535_n-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/5/gallery/397547325_1015805532786204_4352967971347033410_n.jpg" data-size="1536x2048"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/5/gallery/397547325_1015805532786204_4352967971347033410_n-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
