@@ -3,7 +3,7 @@
     <title>jam.krispyrecords.com</title>
     <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
     <link href="https://jam.krispyrecords.com" />
-    <updated>2024-08-04T20:45:37+02:00</updated>
+    <updated>2024-08-04T21:15:55+02:00</updated>
     <author>
         <name>Jerem</name>
     </author>
@@ -197,16 +197,19 @@
         </author>
         <link href="https://jam.krispyrecords.com/krispy-jam-5/"/>
         <id>https://jam.krispyrecords.com/krispy-jam-5/</id>
+        <media:content url="https://jam.krispyrecords.com/media/posts/9/KR_JAM5_La_Petite_Halle_Jeremy_Lanfranchi_ridershow-8.jpg" medium="image" />
             <category term="Jams"/>
 
         <updated>2024-07-24T21:39:17+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jam.krispyrecords.com/media/posts/9/KR_JAM5_La_Petite_Halle_Jeremy_Lanfranchi_ridershow-8.jpg" alt="" />
                     À l'occasion de cette cinquième collaboration avec la Petite Halle de la Villette, nous avons le plaisir d'accueillir Félix Bu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jam.krispyrecords.com/media/posts/9/KR_JAM5_La_Petite_Halle_Jeremy_Lanfranchi_ridershow-8.jpg" class="type:primaryImage" alt="" /></p>
                 <p>À l'occasion de cette cinquième collaboration avec la Petite Halle de la Villette, nous avons le plaisir d'accueillir <a href="https://www.instagram.com/7elix_bu/" target="_blank" rel="noopener noreferrer">Félix Bu</a> le Vendredi 5 Avril 2024.</p>
 <p>Photos par ©<a href="http://www.portfolio.jeremylanfranchi.com" title="Jeremy Lanfranchi Photography Portfolio" target="_blank" rel="noopener"></a><a href="https://www.portfolio.jeremylanfranchi.com" title="Jeremy Lanfranchi Photography Portfolio" target="_blank" rel="noopener noreferrer">Jérémy Lanfranchi</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
