@@ -3,7 +3,7 @@
     <title>jam.krispyrecords.com</title>
     <link href="https://jam.krispyrecords.com/feed.xml" rel="self" />
     <link href="https://jam.krispyrecords.com" />
-    <updated>2025-06-28T16:16:29+02:00</updated>
+    <updated>2025-06-28T16:25:25+02:00</updated>
     <author>
         <name>Jerem</name>
     </author>
@@ -20,26 +20,6 @@
         <updated>2025-06-28T15:52:04+02:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Krispy Jam #13</title>
-        <author>
-            <name>Jerem</name>
-        </author>
-        <link href="https://jam.krispyrecords.com/krispy-jam-13/"/>
-        <id>https://jam.krispyrecords.com/krispy-jam-13/</id>
-
-        <updated>2025-06-28T15:47:05+02:00</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-            ]]>
-        </content>
     </entry>
     <entry>
         <title>Krispy Jam #17</title>
@@ -324,6 +304,26 @@
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/21/gallery/20250202-KR_Jam_14_Petite_Halle_01_02_25_by_Jeremy_Lanfranchi_ridershow-227-Edit.webp" data-size="1000x1498"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/21/gallery/20250202-KR_Jam_14_Petite_Halle_01_02_25_by_Jeremy_Lanfranchi_ridershow-227-Edit-thumbnail.webp" alt="" width="768" height="1150"></a></figure>
 <figure class="gallery__item"><a href="https://jam.krispyrecords.com/media/posts/21/gallery/20250202-KR_Jam_14_Petite_Halle_01_02_25_by_Jeremy_Lanfranchi_ridershow-235-Edit.webp" data-size="1498x1000"><img decoding="async" loading="lazy" src="https://jam.krispyrecords.com/media/posts/21/gallery/20250202-KR_Jam_14_Petite_Halle_01_02_25_by_Jeremy_Lanfranchi_ridershow-235-Edit-thumbnail.webp" alt="" width="768" height="513"></a></figure>
 </div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Krispy Jam #13</title>
+        <author>
+            <name>Jerem</name>
+        </author>
+        <link href="https://jam.krispyrecords.com/krispy-jam-13/"/>
+        <id>https://jam.krispyrecords.com/krispy-jam-13/</id>
+
+        <updated>2025-01-21T15:47:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
     </entry>
